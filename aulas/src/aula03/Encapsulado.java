@@ -1,6 +1,6 @@
 package aula03;
 
-public class NaoEncapsulado {
+public class Encapsulado {
 	   private int comProtecao;
 	   private int comProtecao2;
 	   private int comProtecao3;
